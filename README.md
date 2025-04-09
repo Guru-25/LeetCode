@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Guru-25/LeetCode/tree/master/0053-maximum-subarray) |
 | [0057-insert-interval](https://github.com/Guru-25/LeetCode/tree/master/0057-insert-interval) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Guru-25/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Guru-25/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0542-01-matrix](https://github.com/Guru-25/LeetCode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Guru-25/LeetCode/tree/master/0733-flood-fill) |
 | [0792-binary-search](https://github.com/Guru-25/LeetCode/tree/master/0792-binary-search) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Guru-25/LeetCode/tree/master/0020-valid-parentheses) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Guru-25/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0232-implement-queue-using-stacks](https://github.com/Guru-25/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 ## Linked List
 |  |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Guru-25/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [1014-k-closest-points-to-origin](https://github.com/Guru-25/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 ## Geometry
 |  |
